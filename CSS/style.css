@@ -1,0 +1,19 @@
+#img1{
+    position: absolute;
+    left: 20px;
+    bottom: 50px;
+}
+
+#img2{
+    position: absolute;
+    left: 20px;
+    top: 50px;
+
+}
+
+#img3{
+    position: absolute;
+    right: 30px;
+    bottom: 40px
+}
+
